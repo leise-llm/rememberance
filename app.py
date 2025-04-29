@@ -3,6 +3,8 @@ import os
 from werkzeug.utils import secure_filename
 
 git add static/ templates/
+git commit -m
+git push origin main
 
 app = Flask(__name__)
 app.secret_key = 'supersecretkey'  # Für Flash-Nachrichten
