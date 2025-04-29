@@ -1,4 +1,4 @@
 flask
-azure-congnitiveservices-speech
+azure-cognitiveservices-speech
 gunicorn
 pyhon-dotnev
