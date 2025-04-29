@@ -1,0 +1,4 @@
+flask
+azure-congnitiveservices-speech
+gunicorn
+pyhon-dotnev
